@@ -1,6 +1,6 @@
 # Stockx-scraping-tool
 
-Used selenium, BeautifulSoup and pandas packages, between many others in order to retrieve the dynamic data from a webpage.
+Used selenium, beautifulSoup and pandas packages, between many others in order to retrieve dynamic data from a webpage.
 This dynamic data were the prices at which last 10 items were sold worldwide. Some operations were done and the results were automatically stored in
 an excel file.
 
